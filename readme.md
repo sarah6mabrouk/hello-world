@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
+
+Hello, this new line will be the change on our local Git, that will be pushed to the remote repository on GitHub 
